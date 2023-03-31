@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CakeMuffin
-- 👀 I’m interested in Developing games
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at cakemuffingo@gmail.com
+- Hi, I’m @CakeMuffin. 
+- I’m a Lead Developer of the game Tenebris: Terra Incognita.
+- I’m interested in Developing games with Unity3D.
+- I’m currently developing game. https://store.steampowered.com/app/2280060/Tenebris_Terra_Incognita/
+- How to reach me at cakemuffingo@gmail.com
 
 <!---
 CakeMuffin/CakeMuffin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
